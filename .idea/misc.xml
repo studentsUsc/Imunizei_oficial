@@ -4,6 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/mobile.LABCOMP/AndroidStudioProjects/Imunizei_oficial/app/src/main/res/layout/content_main.xml" value="0.17074275362318841" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.15172101449275363" />
+        <entry key="app/src/main/res/layout/app_bar_main2.xml" value="0.16822916666666668" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/content_main2.xml" value="0.15942028985507245" />
+        <entry key="app/src/main/res/layout/nav_header_main2.xml" value="0.2" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
       </map>
     </option>
   </component>
